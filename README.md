@@ -13,8 +13,3 @@ $ cp bliss.conf ~/.config/kitty/themes
 $ kitten theme
 
 ```
-
-## TODO
-
-- Fix slightly incorrect colors, in `kitty`.
-  Everything looks slightly off, strangely Vim looks better
